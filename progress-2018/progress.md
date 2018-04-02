@@ -16,6 +16,8 @@ If substantial progress is made through these items (in the summer months, for e
 * My job will reimburse me for [my](https://www.cloudera.com/more/training/certification.html) [getting](https://cloud.google.com/certification/data-engineer) [certifications](https://aws.amazon.com/certification/)
   * So that will probably be a thing, at some point.
 
+And I __will__ be staying very loyal to the brilliant [Data Science Comprehensive](https://github.com/P1xt/p1xt-guides/blob/7963145bbdff18853867c3d18825a61ec14f73a2/data-science.md), by P1xt
+
 ## Progress
 
 Current Course:    College Algebra and Problem Solving, with ASU
@@ -134,7 +136,7 @@ Additional books can be found [on P1xt's page](https://github.com/P1xt/speedstud
 | Large Project                               | 300                   | project       |
 | Gigantic Project                            | 400                   | project       |
 | Duolingo or MosaLingua (1 level)            | 100                   | foundation    |
-| LinguaDear (1 full skill practiced)         | 100                   | foundation    |
+| [LingoDeer](https://play.google.com/store/apps/details?id=com.lingodeer) (1 full skill practiced)         | 100                   | foundation    |
 | Book                                        | 200                   | foundation    |
 | Tutorial site (Udemy/Pluralsight/Egghead/Treehouse/etc) course                            | 100                   | foundation    |
 | University level course (Coursera/edX/MITOCW/etc)                    | 500                   | foundation    |
@@ -143,7 +145,7 @@ Additional books can be found [on P1xt's page](https://github.com/P1xt/speedstud
 | Khan Academy (30 minutes)                          | 10                    | foundation    |
 | [Analytics Vidhya](https://datahack.analyticsvidhya.com/contest/all/) Competition                | 50                    | data-science  |
 | [Crowd Analytix](https://www.crowdanalytix.com/community) Competition                  | 50                    | data-science  |
-| Kaggle Competition                          | 50                    | data-science  |
+| [Kaggle](https://www.kaggle.com/stephenjfox) Competition                          | 50                    | data-science  |
 | [Driven Data](https://www.drivendata.org/competitions/) Competition                     | 50                    | data-science  |
 | Blog Post on any topic                      | 15                    | communication |
 | Blog Post Tutorial                          | 40                    | communication |
@@ -154,9 +156,9 @@ Additional books can be found [on P1xt's page](https://github.com/P1xt/speedstud
 | Diary entry                                 | 5                     | communication |
 | CodeWars (10 problems)                      | 50                    | algorithms    |
 | CodinGame (1 Tier)                          | 100                   | algorithms    |
-| CodinGame (1 Bot Competition)               | 20                    | algorithms    |
-| HackerRank (10 problems)                    | 50                    | algorithms    |
-| Google Code Jam (1 round from past contest) | 100                   | algorithms    |
+| CodinGame (1 [Bot Competition](https://www.codingame.com/multiplayer/bot-programming))               | 20                    | algorithms    |
+| [HackerRank](https://www.hackerrank.com/dashboard) (10 problems)                    | 50                    | algorithms    |
+| [Google Code Jam](https://code.google.com/codejam/) (1 round from [past contest](https://code.google.com/codejam/past-contests)) | 100                   | algorithms    |
 
 ## Project ideas
 
