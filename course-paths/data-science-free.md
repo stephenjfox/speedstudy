@@ -97,4 +97,8 @@
 
 - [ ] [Robotics](https://www.edx.org/course/robotics-columbiax-csmm-103x-0)
 
-- [ ] [Animation and CGI Motion](https://www.edx.org/course/animation-cgi-motion-columbiax-csmm-104x-0)
+- [ ] [Topics in Mathematics of Data Science](https://ocw.mit.edu/courses/mathematics/18-s096-topics-in-mathematics-of-data-science-fall-2015/index.htm)
+
+- [ ] [Mathematics of Machine Learning](https://ocw.mit.edu/courses/mathematics/18-657-mathematics-of-machine-learning-fall-2015/index.htm)
+
+- [ ] [Dynamic Systems and Control](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-241j-dynamic-systems-and-control-spring-2011/index.htm) 
