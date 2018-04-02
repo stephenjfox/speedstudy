@@ -2,20 +2,28 @@
 
 ## 2018
 
-something about your goals here
+Goal for the year: is to acquire the skills to pivot my day job into __Data__
+
+* Data Analytics at a minimum
+* Jr. Data Science or Mid-level Data Engineering (using my SWE experience)
+* Deep Learning Research (hopefully with [OpenAI to assist](https://blog.openai.com/openai-scholars/))
+
+I've taken a few courses already, like Udacity's Deep Learning Foundations Nanodegree (no longer recommend. Take [the updated course](https://www.udacity.com/course/deep-learning-nanodegree--nd101))
 
 ## Progress
 
-Current Course:    
+Current Course:    College Algebra and Problem Solving, with ASU
 Courses Completed: 0  
-Total Points earned: 
+Total Points earned:
 
 | Date Finished | Activity                  | Points | Links  |           
 | ------------- | ------------------------- | ------ | ------------------------------------------- |
-|  |  |  |  |
+| WIP | Do all problems in Rosalind's [Python Village](http://rosalind.info/problems/list-view/?location=python-village)  | 50 | [github coming soon] |
+|  |  |  |  | |
 
 
-## Data Science Intensive
+## Data Science Intensively Comprehensive
+- [ ] [College Algebra and Problem Solving](https://www.edx.org/course/college-algebra-problem-solving-asux-mat117x)
 - [ ] [Introduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-11)
 - [ ] [Data Science Path on Cognitive Class](https://cognitiveclass.ai/learn/data-science/)
 - [ ] [MongoDB for Developers](https://university.mongodb.com/courses/M101P/about)
@@ -25,20 +33,22 @@ Total Points earned:
 - [ ] [Deep Learning Path on Cognitive Class](https://cognitiveclass.ai/learn/deep-learning/)
 - [ ] [Introduction to Computational Thinking and Data Science](https://www.edx.org/course/introduction-computational-thinking-data-mitx-6-00-2x-6)
 - [ ] [Data Science](http://cs109.github.io/2015/)
-- [ ] [Programming for the Web with JavaScript](https://www.edx.org/course/programming-web-javascript-pennx-sd4x)
 - [ ] [Introduction to Solid State Chemistry](https://ocw.mit.edu/courses/materials-science-and-engineering/3-091sc-introduction-to-solid-state-chemistry-fall-2010/index.htm)
 - [ ] [Calculus Two: Sequences and Series](https://www.coursera.org/learn/advanced-calculus)
 - [ ] [Intro to Machine Learning](https://www.udacity.com/course/intro-to-machine-learning--ud120)
 - [ ] [Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/)
 - [ ] [Proteins: Biology's Workforce](https://www.edx.org/course/proteins-biologys-workforce-ricex-bioc300-1x-2)
+- [ ] [Sudoku (from Udacity AI Nanodegree Preview)](https://classroom.udacity.com/courses/ud898-preview)
+    - [Supplemental older version](https://classroom.udacity.com/courses/ud889-preview)
 - [ ] [Mathematics for Computer Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/index.htm)
+- [ ] [Computational Linear Algebra for Coders](https://github.com/fastai/numerical-linear-algebra/blob/master/README.md)
 - [ ] [Python for Data Science](https://www.edx.org/course/python-data-science-uc-san-diegox-dse200x)
 - [ ] [Data Visualization and D3.js](https://www.udacity.com/course/data-visualization-and-d3js--ud507)
 - [ ] [Statistics and Probability in Data Science using Python](https://www.edx.org/course/statistics-probability-data-science-uc-san-diegox-dse210x)
 - [ ] [Proteins: Biology's Workforce](https://www.edx.org/course/proteins-biologys-workforce-ricex-bioc300-1x-2)
 - [ ] [Machine Learning](https://www.coursera.org/learn/machine-learning)
 - [ ] [Database Mini-Courses](https://lagunita.stanford.edu/courses/DB/2014/SelfPaced/about)
-- [ ] [Deep Learning](https://www.udacity.com/course/deep-learning--ud730)
+- [ ] Review Udacity DL Nanodegree (as I've already taken it)
 - [ ] [Algorithms, Part I](https://www.coursera.org/learn/algorithms-part1)
 - [ ] [Algorithms, Part II](https://www.coursera.org/learn/algorithms-part2)
 - [ ] [Analysis of Algorithms](https://www.coursera.org/learn/analysis-of-algorithms)
@@ -65,9 +75,12 @@ Total Points earned:
 - [ ] [Artificial Intelligence (AI)](https://www.edx.org/course/artificial-intelligence-ai-columbiax-csmm-101x-1)
 - [ ] [Machine Learning](https://www.edx.org/course/machine-learning-columbiax-csmm-102x-1)
 - [ ] [Robotics](https://www.edx.org/course/robotics-columbiax-csmm-103x-0)
-- [ ] [Animation and CGI Motion](https://www.edx.org/course/animation-cgi-motion-columbiax-csmm-104x-0)
+- [ ] [Topics in Mathematics of Data Science](https://ocw.mit.edu/courses/mathematics/18-s096-topics-in-mathematics-of-data-science-fall-2015/index.htm)
+- [ ] [Mathematics of Machine Learning](https://ocw.mit.edu/courses/mathematics/18-657-mathematics-of-machine-learning-fall-2015/index.htm)
+- [ ] [Dynamic Systems and Control](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-241j-dynamic-systems-and-control-spring-2011/index.htm)
 
-## Book Suggestions
+
+## Book Resources
 ### Data Science
 
 * [College Algebra](https://openstax.org/details/books/college-algebra)
@@ -92,7 +105,19 @@ Total Points earned:
 * [New Horizons for a Data-Driven Economy](https://link.springer.com/book/10.1007%2F978-3-319-21569-3)
 * [The Challenge of Chance](https://link.springer.com/book/10.1007/978-3-319-26300-7)
 
-Additional books can be found [here](https://github.com/P1xt/speedstudy/blob/master/book-lists.md)
+### Blogs
+
+Bookmark these blogs and try to read at least one article from one of them per week.
+- [Data School](http://www.dataschool.io/)
+- [Machine Learning Mastery](https://machinelearningmastery.com/blog/)
+- [No Free Hunch - Kaggle's blog](http://blog.kaggle.com/)
+- [Pete Warden's Blog](https://petewarden.com/)
+- [The Unofficial Google Data Science Blog](http://www.unofficialgoogledatascience.com/)
+- [Data Science Central](http://www.datasciencecentral.com/)
+- [R Bloggers](https://www.r-bloggers.com/)
+
+
+Additional books can be found [on P1xt's page](https://github.com/P1xt/speedstudy/blob/master/book-lists.md)
 
 ## Bonus List
 
@@ -103,16 +128,17 @@ Additional books can be found [here](https://github.com/P1xt/speedstudy/blob/mas
 | Large Project                               | 300                   | project       |
 | Gigantic Project                            | 400                   | project       |
 | Duolingo or MosaLingua (1 level)            | 100                   | foundation    |
+| LinguaDear (1 full skill practiced)         | 100                   | foundation    |
 | Book                                        | 200                   | foundation    |
 | Tutorial site (Udemy/Pluralsight/Egghead/Treehouse/etc) course                            | 100                   | foundation    |
 | University level course (Coursera/edX/MITOCW/etc)                    | 500                   | foundation    |
 | Physical Activity (30 minutes)                          | 10                    | foundation    |
 | Musical Instrument Practice (30 minutes)                          | 10                    | foundation    |
 | Khan Academy (30 minutes)                          | 10                    | foundation    |
-| Analytics Vidhya Competition                | 50                    | data-science  |
-| Crowd Analytix Competition                  | 50                    | data-science  |
+| [Analytics Vidhya](https://datahack.analyticsvidhya.com/contest/all/) Competition                | 50                    | data-science  |
+| [Crowd Analytix](https://www.crowdanalytix.com/community) Competition                  | 50                    | data-science  |
 | Kaggle Competition                          | 50                    | data-science  |
-| Driven Data Competition                     | 50                    | data-science  |
+| [Driven Data](https://www.drivendata.org/competitions/) Competition                     | 50                    | data-science  |
 | Blog Post on any topic                      | 15                    | communication |
 | Blog Post Tutorial                          | 40                    | communication |
 | Video Tutorial                              | 50                    | communication |
@@ -128,13 +154,11 @@ Additional books can be found [here](https://github.com/P1xt/speedstudy/blob/mas
 
 ## Project ideas
 
-*   Pick a template from [\[here\]](https://freebiesbug.com/psd-freebies/website-template/), [\[here\]](http://www.os-templates.com/free-website-templates), or [\[here\]](http://www.free-css.com/free-css-templates) and implement the frontend of a website with it as your inspiration (do not use its assets)
-*   Complete any 5 projects from [100 Days of CSS](https://100dayscss.com/).
 *   Select an API from [Todd Motto's API List](https://github.com/toddmotto/public-apis) and build a frontend-only application powered by data fetched from the API you chose.
 *   Complete a CSS theme for [CSS Zen Garden](http://www.csszengarden.com/)
 *   Clone your favorite non-trivial website such as: Medium, Twitter, Slack, Netflix, Reddit.
 *   Clone a video game such as: Breakout, Tetris, Pacman, Super Mario Bros, Zelda, Final Fantasy.
-*   Complete any project on The Odin Project or FreeCodeCamp.
+*   Complete any project on The Odin Project or Project Euler.
 *   Clone your favorite browser extension, or create one you wish existed.
 *   Clone your favorite mobile app, or create one you wish existed.
 *   Any project you want to build - the above are all just ideas for if you're stuck for an idea - really, just build what you want!
