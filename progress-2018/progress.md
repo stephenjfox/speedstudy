@@ -10,6 +10,11 @@ Goal for the year: is to acquire the skills to pivot my day job into __Data__
 
 I've taken a few courses already, like Udacity's Deep Learning Foundations Nanodegree (no longer recommend. Take [the updated course](https://www.udacity.com/course/deep-learning-nanodegree--nd101))
 
+If substantial progress is made through these items (in the summer months, for example) we'll add more physics or AI projects. We have to get there first.
+
+* And, of course, we'll be pulling content from the [included courses](../course-paths) as time goes on.
+
+
 ## Progress
 
 Current Course:    College Algebra and Problem Solving, with ASU
