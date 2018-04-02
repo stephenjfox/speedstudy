@@ -1,47 +1,27 @@
 # SpeedStudy Plan
 
-## Progress
-If you would like to join me, feel free to either grab a copy of this repo and create your own goals for the year, or snag the [template](./progress-2018) to make your own copy and add a link to it here.
+Tracking for the year
 
-* [Bolu](https://github.com/ajibs/progress-2018/blob/master/README.md)
-* [Kornil](https://github.com/Kornil/speedstudy/blob/master/progress-2018/Kornil-2018/Kornil-progress-2018.md)
-* [Matty22](https://github.com/matty22/speedstudy)
-* [P1xt](https://github.com/P1xt/p1xt-progress)
-* [fiftyfivebells](https://github.com/fiftyfivebells/2018-study-plan)
-* [Osycon](https://github.com/osycon/osycon-progress)
-* [SharpEleven](https://github.com/SharpEleven91/StudyGuide2018)
-* [elloo](https://github.com/elloo/p1xt-js-2.0-guided-studies)
-* [mayurpande](https://github.com/mayurpande/speedstudy)
-* [mtanzillo](https://github.com/mtanzillo/speedstudy2018)
-* [akhilome](https://github.com/akhilome/ss2018)
-* [bernar83](https://github.com/bernar83/2018-study-plan)
-* [LuisJaquez](https://github.com/LuisJaquez/Speed-Study-2018)
-* [buoyantair](https://github.com/buoyantair/progress)
-* [jesuodz](https://github.com/jesuodz/speedstudy)
-* [LydiaVuj](https://github.com/LydiaVuj/speedstudy2018)
-* [mbazhlekova](https://github.com/mbazhlekova/2018-speedstudy)
-* [RishiSpeets](https://github.com/RishiSpeets/study-progress)
-* [TheSabby](https://github.com/TheSabby/speed-study)
-* [Diana](https://github.com/dianastanciu/speedstudy2018)
-* [kevcomedia](https://github.com/kevcomedia/progress-2018)
-* [AliMahmoud7](https://github.com/AliMahmoud7/my-progress)
-* [ahmedvip2008](https://github.com/ahmedvip2008/progress-2018)
-* [AmirF27](https://github.com/AmirF27/2018-progress)
-* [jer244](https://github.com/jer244/progress)
-* [sritha3005](https://github.com/sritha3005/speedstudyProgress2018)
-* [Zenrer](https://github.com/Zenrer/speedstudy)
-* [Your Progress Here](./progress-2018)
-
-## Abstract
-
-I'm tackling my 2018 learning goals in true "Speedrun" style. My list contains far more courses than I expect I'll be able to complete in 2018, so it's sufficient that I can speedrun the year without running out of items from the list to learn.
-
-Additionally, I'm including a variety of "bonus point" opportunities for reading books, completing projects, and completing algorithmic challenges.
-
-My goal is to see how many points I can rack up by December 31, 2018.
+| Year | Start Date |
+| :------------- | :------------- |
+| [2018](./progress-2018/progress.md)       | 3월 25일 |
 
 
-**Note:** There are 5 different course lists available in the [course-paths](course-paths) subdirectory if you'd like to clone this for your own use and swap out a different path for those I've chosen. The MITOCW paths will likely require book purchase (or borrow), the non-MITOCW paths are completely free, no book purchase necessary to take the course. There are book lists for if you're looking for "bonus books" to read in [book-lists](book-lists.md) some are freely available online (and I've included links to where to find them) others (towards the bottom of the list) are not free, you'll have to hit google or amazon yourself to find them.
+## From the Original Post
+
+> ## Progress
+If you would like to join me, feel free to either grab a copy of this repo and create your own goals for the year, or snag the [template](./template-2018.md) to make your own copy and add a link to it here.
+
+> ## Abstract
+
+> I'm tackling my 2018 learning goals in true "Speedrun" style. My list contains far more courses than I expect I'll be able to complete in 2018, so it's sufficient that I can speedrun the year without running out of items from the list to learn.
+
+> Additionally, I'm including a variety of "bonus point" opportunities for reading books, completing projects, and completing algorithmic challenges.
+
+> My goal is to see how many points I can rack up by December 31, 2018.
+
+
+> **Note:** There are 5 different course lists available in the [course-paths](course-paths) subdirectory if you'd like to clone this for your own use and swap out a different path for those I've chosen. The MITOCW paths will likely require book purchase (or borrow), the non-MITOCW paths are completely free, no book purchase necessary to take the course. There are book lists for if you're looking for "bonus books" to read in [book-lists](book-lists.md) some are freely available online (and I've included links to where to find them) others (towards the bottom of the list) are not free, you'll have to hit google or amazon yourself to find them.
 
 ## Rules
 

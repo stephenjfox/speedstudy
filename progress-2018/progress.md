@@ -1,6 +1,6 @@
-# Progress towards my learning goals
+# 2018
 
-## 2018
+(2018년 4월 2일에 시작헸다)
 
 Goal for the year: is to acquire the skills to pivot my day job into __Data__
 
@@ -12,8 +12,9 @@ I've taken a few courses already, like Udacity's Deep Learning Foundations Nanod
 
 If substantial progress is made through these items (in the summer months, for example) we'll add more physics or AI projects. We have to get there first.
 
-* And, of course, we'll be pulling content from the [included courses](../course-paths) as time goes on.
-
+* Of course, we'll be pulling content from the [included courses](../course-paths) as time goes on.
+* My job will reimburse me for [my](https://www.cloudera.com/more/training/certification.html) [getting](https://cloud.google.com/certification/data-engineer) [certifications](https://aws.amazon.com/certification/)
+  * So that will probably be a thing, at some point.
 
 ## Progress
 
@@ -23,7 +24,7 @@ Total Points earned:
 
 | Date Finished | Activity                  | Points | Links  |           
 | ------------- | ------------------------- | ------ | ------------------------------------------- |
-| WIP | Do all problems in Rosalind's [Python Village](http://rosalind.info/problems/list-view/?location=python-village)  | 50 | [github coming soon] |
+| 2018/04/02 - WIP | Do all problems in Rosalind's [Python Village](http://rosalind.info/problems/list-view/?location=python-village)  | 50 | [github coming soon] |
 |  |  |  |  | |
 
 
