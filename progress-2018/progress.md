@@ -16,17 +16,19 @@ If substantial progress is made through these items (in the summer months, for e
 * My job will reimburse me for [my](https://www.cloudera.com/more/training/certification.html) [getting](https://cloud.google.com/certification/data-engineer) [certifications](https://aws.amazon.com/certification/)
   * So that will probably be a thing, at some point.
 
-And I __will__ be staying very loyal to the brilliant [Data Science Comprehensive](https://github.com/P1xt/p1xt-guides/blob/7963145bbdff18853867c3d18825a61ec14f73a2/data-science.md), by P1xt
+And I __will__ be staying very loyal to the brilliant [Data Science Comprehensive](https://github.com/P1xt/p1xt-guides/blob/7963145bbdff18853867c3d18825a61ec14f73a2/data-science.md), by P1xt (as of 2018년 4월)
 
 ## Progress
 
 Current Course:    College Algebra and Problem Solving, with ASU
-Courses Completed: 0  
-Total Points earned:
+
+Courses Completed: 0
+
+Total Points earned: 50
 
 | Date Finished | Activity                  | Points | Links  |           
 | ------------- | ------------------------- | ------ | ------------------------------------------- |
-| 2018/04/02 - WIP | Do all problems in Rosalind's [Python Village](http://rosalind.info/problems/list-view/?location=python-village)  | 50 | [github coming soon] |
+| 2018/04/04 | Do all problems in Rosalind's [Python Village](http://rosalind.info/problems/list-view/?location=python-village)  | 50 | [github](https://github.com/stephenjfox/stephenjfox-progress/tree/master/progress-2018/01-python-village) |
 |  |  |  |  | |
 
 
