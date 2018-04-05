@@ -1,15 +1,10 @@
 from collections import Counter
 
-# Given: a string of no more than 10000 letters
-# Return: Word count, in any order, i.e any 1 <line break> word 2
+with open('./06-input.txt') as source, open('./06-output.txt', mode='w+') as out:
+    counter = Counter()
+    for line in source:
+        for word in line.split():
+            counter[word] += 1
 
-c = Counter()
-
-with open('06-input.txt') as input:
-    text = input.readline()
-
-    for value in text.split(' '):
-        c[value] += 1
-
-for word, count in c.items():
-    print(word, count)
+    for key, value in counter.items():
+        print(key, value, file=out)
