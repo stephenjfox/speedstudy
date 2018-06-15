@@ -7,9 +7,17 @@
 
 def produce_fibs(under=100):
     a = b = 1
-    while a < under:
-        yield a
+    while b < under:
         a, b = b, a + b
+        if a % 2 == 0:
+            yield a
 
+from argparse import ArgumentParser
 
-print(list(produce_fibs()))
+parser = ArgumentParser(description='Produce the sum of the even Fibonacci numbers')
+parser.add_argument('up_to', type=int, nargs='?', default=4000000,
+                    help='upper limit for which generate fibonacci numbers will not exceed')
+
+ns = parser.parse_args()
+
+print(sum(produce_fibs(ns.up_to)))
