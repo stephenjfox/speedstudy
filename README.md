@@ -10,7 +10,7 @@ Tracking for the year
 ## From the Original Post
 
 > ## Progress
-If you would like to join me, feel free to either grab a copy of this repo and create your own goals for the year, or snag the [template](./template-2018.md) to make your own copy and add a link to it here.
+> If you would like to join me, feel free to either grab a copy of this repo and create your own goals for the year, or snag the [template](./template-2018.md) to make your own copy and add a link to it here.
 
 > ## Abstract
 
